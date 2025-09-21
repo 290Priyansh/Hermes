@@ -1,0 +1,122 @@
+[
+  {
+    "iata_code": "DEL",
+    "city": "New Delhi",
+    "airport_name": "Indira Gandhi International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "BOM",
+    "city": "Mumbai",
+    "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "BLR",
+    "city": "Bengaluru",
+    "airport_name": "Kempegowda International Airport Bengaluru",
+    "country": "India"
+  },
+  {
+    "iata_code": "MAA",
+    "city": "Chennai",
+    "airport_name": "Chennai International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "CCU",
+    "city": "Kolkata",
+    "airport_name": "Netaji Subhash Chandra Bose International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "HYD",
+    "city": "Hyderabad",
+    "airport_name": "Rajiv Gandhi International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "PNQ",
+    "city": "Pune",
+    "airport_name": "Pune Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "GOI",
+    "city": "Goa",
+    "airport_name": "Goa International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "AMD",
+    "city": "Ahmedabad",
+    "airport_name": "Sardar Vallabhbhai Patel International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "JAI",
+    "city": "Jaipur",
+    "airport_name": "Jaipur International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "COK",
+    "city": "Kochi",
+    "airport_name": "Cochin International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "TRV",
+    "city": "Thiruvananthapuram",
+    "airport_name": "Trivandrum International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "IXC",
+    "city": "Chandigarh",
+    "airport_name": "Chandigarh Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "LKO",
+    "city": "Lucknow",
+    "airport_name": "Chaudhary Charan Singh International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "BBI",
+    "city": "Bhubaneswar",
+    "airport_name": "Biju Patnaik International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "IXR",
+    "city": "Ranchi",
+    "airport_name": "Birsa Munda Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "GAU",
+    "city": "Guwahati",
+    "airport_name": "Lokpriya Gopinath Bordoloi International Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "IXS",
+    "city": "Silchar",
+    "airport_name": "Kumbhirgram Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "VNS",
+    "city": "Varanasi",
+    "airport_name": "Lal Bahadur Shastri Airport",
+    "country": "India"
+  },
+  {
+    "iata_code": "NAG",
+    "city": "Nagpur",
+    "airport_name": "Dr. Babasaheb Ambedkar International Airport",
+    "country": "India"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "Saver": {
+    "cancellation_policy": {
+      "gt_72_hours": {
+        "fee_per_passenger": 2000,
+        "is_refundable": true
+      },
+      "24_to_72_hours": {
+        "fee_per_passenger": 3500,
+        "is_refundable": true
+      },
+      "lt_24_hours": {
+        "fee_per_passenger": 5000,
+        "is_refundable": false
+      }
+    },
+    "change_fee_per_passenger": 2500,
+    "checked_baggage_allowance": "15kg"
+  },
+  "Flexi": {
+    "cancellation_policy": {
+      "gt_72_hours": {
+        "fee_per_passenger": 1500,
+        "is_refundable": true
+      },
+      "24_to_72_hours": {
+        "fee_per_passenger": 2500,
+        "is_refundable": true
+      },
+      "lt_24_hours": {
+        "fee_per_passenger": 3500,
+        "is_refundable": true
+      }
+    },
+    "change_fee_per_passenger": 1500,
+    "checked_baggage_allowance": "20kg"
+  },
+  "Premium": {
+    "cancellation_policy": {
+      "gt_72_hours": {
+        "fee_per_passenger": 0,
+        "is_refundable": true
+      },
+      "24_to_72_hours": {
+        "fee_per_passenger": 1000,
+        "is_refundable": true
+      },
+      "lt_24_hours": {
+        "fee_per_passenger": 2000,
+        "is_refundable": true
+      }
+    },
+    "change_fee_per_passenger": 0,
+    "checked_baggage_allowance": "30kg"
+  },
+  "Business": {
+    "cancellation_policy": {
+      "gt_72_hours": {
+        "fee_per_passenger": 0,
+        "is_refundable": true
+      },
+      "24_to_72_hours": {
+        "fee_per_passenger": 0,
+        "is_refundable": true
+      },
+      "lt_24_hours": {
+        "fee_per_passenger": 1000,
+        "is_refundable": true
+      }
+    },
+    "change_fee_per_passenger": 0,
+    "checked_baggage_allowance": "40kg"
+  }
+}

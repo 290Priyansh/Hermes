@@ -1,0 +1,122 @@
+[
+  {
+    "flight_id": "SL-101",
+    "airline_name": "SkyLink Airways",
+    "origin_iata": "DEL",
+    "destination_iata": "BOM",
+    "departure_time_local": "06:00",
+    "arrival_time_local": "08:15",
+    "duration_minutes": 135,
+    "stops": 0,
+    "available_fares": [
+      {
+        "fare_family": "Saver",
+        "base_fare_inr": 4500
+      },
+      {
+        "fare_family": "Flexi",
+        "base_fare_inr": 6200
+      },
+      {
+        "fare_family": "Premium",
+        "base_fare_inr": 8500
+      }
+    ]
+  },
+  {
+    "flight_id": "SL-102",
+    "airline_name": "SkyLink Airways",
+    "origin_iata": "DEL",
+    "destination_iata": "BOM",
+    "departure_time_local": "12:30",
+    "arrival_time_local": "14:45",
+    "duration_minutes": 135,
+    "stops": 0,
+    "available_fares": [
+      {
+        "fare_family": "Saver",
+        "base_fare_inr": 5200
+      },
+      {
+        "fare_family": "Flexi",
+        "base_fare_inr": 6800
+      },
+      {
+        "fare_family": "Premium",
+        "base_fare_inr": 9200
+      }
+    ]
+  },
+  {
+    "flight_id": "SL-103",
+    "airline_name": "SkyLink Airways",
+    "origin_iata": "DEL",
+    "destination_iata": "BOM",
+    "departure_time_local": "18:20",
+    "arrival_time_local": "20:35",
+    "duration_minutes": 135,
+    "stops": 0,
+    "available_fares": [
+      {
+        "fare_family": "Saver",
+        "base_fare_inr": 4800
+      },
+      {
+        "fare_family": "Flexi",
+        "base_fare_inr": 6500
+      },
+      {
+        "fare_family": "Business",
+        "base_fare_inr": 12500
+      }
+    ]
+  },
+  {
+    "flight_id": "SL-201",
+    "airline_name": "SkyLink Airways",
+    "origin_iata": "BOM",
+    "destination_iata": "DEL",
+    "departure_time_local": "07:45",
+    "arrival_time_local": "10:00",
+    "duration_minutes": 135,
+    "stops": 0,
+    "available_fares": [
+      {
+        "fare_family": "Saver",
+        "base_fare_inr": 4600
+      },
+      {
+        "fare_family": "Flexi",
+        "base_fare_inr": 6300
+      },
+      {
+        "fare_family": "Premium",
+        "base_fare_inr": 8800
+      }
+    ]
+  },
+  {
+    "flight_id": "SL-301",
+    "airline_name": "SkyLink Airways",
+    "origin_iata": "DEL",
+    "destination_iata": "BLR",
+    "departure_time_local": "09:15",
+    "arrival_time_local": "12:00",
+    "duration_minutes": 165,
+    "stops": 0,
+    "available_fares": [
+      {
+        "fare_family": "Saver",
+        "base_fare_inr": 5800
+      },
+      {
+        "fare_family": "Flexi",
+        "base_fare_inr": 7500
+      },
+      {
+        "fare_family": "Premium",
+        "base_fare_inr": 10200
+      }
+    ]
+  }
+]
