@@ -117,7 +117,7 @@ Hermes was built by integrating **Inya.ai Agentic AI** with best-in-class servic
 
 ## 🎥 Demo
 
-📽️ [Demo Video Link](#) *(Replace with your actual demo URL)*
+📽️ [Demo Video Link](https://youtu.be/f1irOy9MJRk)
 
 Experience Hermes handling **bookings, cancellations, and real-time status checks** across multiple channels.
 
